@@ -1,0 +1,12 @@
+[package]
+name = "clapplot"
+version = "0.1.0"
+authors = ["István Bozsó <bozso.istvan@csfk.mta.hu>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+clap = "2.33.0"
+textplots = "0.5.0"
+hdf5file = "0.1.1"
